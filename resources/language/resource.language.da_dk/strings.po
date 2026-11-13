@@ -1,0 +1,33 @@
+# Kodi add-on strings - screensaver.aeon.fuse (da_dk)
+msgid ""
+msgstr ""
+"Project-Id-Version: screensaver.aeon.fuse\n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32000"
+msgid "Screensaver"
+msgstr "Pauseskærm"
+
+msgctxt "#32001"
+msgid "Show movies"
+msgstr "Vis film"
+
+msgctxt "#32002"
+msgid "Show TV shows"
+msgstr "Vis tv-serier"
+
+msgctxt "#32003"
+msgid "Show albums"
+msgstr "Vis album"
+
+msgctxt "#32004"
+msgid "Seconds before switching to the next kind"
+msgstr "Sekunder før næste type"
+
+msgctxt "#32005"
+msgid "Zoom and slide the backgrounds (fanart)"
+msgstr "Zoom og lad baggrundene (fanart) glide"

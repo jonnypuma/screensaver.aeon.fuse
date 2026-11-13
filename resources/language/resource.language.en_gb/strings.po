@@ -1,0 +1,30 @@
+# Kodi Media Center language file
+# Addon Name: Aeon Fuse Screensaver
+# Addon id: screensaver.aeon.fuse
+msgid ""
+msgstr ""
+"Language: en_GB\n"
+
+msgctxt "#32000"
+msgid "Screensaver"
+msgstr ""
+
+msgctxt "#32001"
+msgid "Show movies"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Show TV shows"
+msgstr ""
+
+msgctxt "#32003"
+msgid "Show albums"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Seconds before switching to the next kind"
+msgstr ""
+
+msgctxt "#32005"
+msgid "Zoom and slide the backgrounds (fanart)"
+msgstr ""

@@ -1,0 +1,33 @@
+# Kodi add-on strings - screensaver.aeon.fuse (ko_kr)
+msgid ""
+msgstr ""
+"Project-Id-Version: screensaver.aeon.fuse\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgctxt "#32000"
+msgid "Screensaver"
+msgstr "화면 보호기"
+
+msgctxt "#32001"
+msgid "Show movies"
+msgstr "영화 표시"
+
+msgctxt "#32002"
+msgid "Show TV shows"
+msgstr "TV 프로그램 표시"
+
+msgctxt "#32003"
+msgid "Show albums"
+msgstr "앨범 표시"
+
+msgctxt "#32004"
+msgid "Seconds before switching to the next kind"
+msgstr "다음 종류로 넘어가기 전 초"
+
+msgctxt "#32005"
+msgid "Zoom and slide the backgrounds (fanart)"
+msgstr "배경(팬아트) 확대 및 슬라이드"
