@@ -1,5 +1,7 @@
 # Aeon Fuse Screensaver (screensaver.aeon.fuse)
 
+**Project page:** [jonnypuma.github.io/#/screensaver.aeon.fuse](https://jonnypuma.github.io/#/screensaver.aeon.fuse) · **All add-ons and apps by jonnypuma:** [jonnypuma.github.io](https://jonnypuma.github.io/)
+
 The screensaver of the [Aeon Fuse](../skin.aeon.fuse) skin, as a regular Kodi screensaver. It shows random films, TV
 shows and albums from your library in the skin's own screensaver window. Under another skin it shows a black screen.
 
