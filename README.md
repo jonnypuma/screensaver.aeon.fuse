@@ -1,14 +1,31 @@
-# Aeon Fuse Screensaver (screensaver.aeon.fuse)
+<div align="center">
+  <img src="https://jonnypuma.github.io/assets/screensaver.aeon.fuse/icon.webp" width="140" alt="Aeon Fuse Screensaver">
+  <h1>Aeon Fuse Screensaver</h1>
+  <p><b>Random movies, TV shows and albums from your library, in the Aeon Fuse look.</b></p>
+  <p><a href="https://jonnypuma.github.io/#/screensaver.aeon.fuse"><b>Project page</b></a> · <a href="https://jonnypuma.github.io/"><b>All add-ons and apps by jonnypuma</b></a> · <a href="https://jonnypuma.github.io/#/skin.aeon.fuse"><b>Aeon Fuse skin</b></a> · <a href="https://jonnypuma.github.io/#install"><b>Install from the Skippy Repo</b></a></p>
+</div>
 
-**Project page:** [jonnypuma.github.io/#/screensaver.aeon.fuse](https://jonnypuma.github.io/#/screensaver.aeon.fuse) · **All add-ons and apps by jonnypuma:** [jonnypuma.github.io](https://jonnypuma.github.io/)
-
-The screensaver of the [Aeon Fuse](../skin.aeon.fuse) skin, as a regular Kodi screensaver. It shows random films, TV
-shows and albums from your library in the skin's own screensaver window. Under another skin it shows a black screen.
+The screensaver shows random films, TV shows and albums from your library in the skin's own screensaver window. Under another skin it shows a black screen.
 
 - Kodi 21 / 22 / 23 (Python 3, `xbmc.python` 3.0.1)
 - Licence: GPL-2.0-or-later
 - Needs the Aeon Fuse skin for its picture. The skin's helper (`script.aeon.helper`) supplies the library counts it
   uses to skip empty sections.
+
+## Screenshots
+
+Click a picture for the full size.
+
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top"><a href="https://jonnypuma.github.io/assets/skin.aeon.fuse/aeon/screensaver.webp"><img src="https://jonnypuma.github.io/assets/skin.aeon.fuse/aeon/t/screensaver.webp" alt="A film from the library"></a><br><sub>A film from the library</sub></td>
+    <td width="33%" align="center" valign="top"><a href="https://jonnypuma.github.io/assets/skin.aeon.fuse/aeon/screensaver_airing.webp"><img src="https://jonnypuma.github.io/assets/skin.aeon.fuse/aeon/t/screensaver_airing.webp" alt="On an upcoming episode: Airing today"></a><br><sub>On an upcoming episode: Airing today</sub></td>
+    <td width="33%" align="center" valign="top"><a href="https://jonnypuma.github.io/assets/skin.aeon.fuse/aeon/music_screensaver.webp"><img src="https://jonnypuma.github.io/assets/skin.aeon.fuse/aeon/t/music_screensaver.webp" alt="While a song plays: the song and its cover in a corner"></a><br><sub>While a song plays: the song and its cover in a corner</sub></td>
+  </tr>
+</table>
+## Install
+
+Install it from the Skippy Repo: Add-ons > Install from repository > Skippy Repo > Screensavers.
 
 ## Use
 
