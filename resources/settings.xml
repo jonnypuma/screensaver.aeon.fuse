@@ -18,18 +18,33 @@
 					<default>true</default>
 					<control type="toggle"/>
 				</setting>
+				<setting id="cinema" type="boolean" label="32006">
+					<level>0</level>
+					<default>true</default>
+					<control type="toggle"/>
+				</setting>
+				<setting id="today" type="boolean" label="32007">
+					<level>0</level>
+					<default>true</default>
+					<control type="toggle"/>
+				</setting>
+				<setting id="tomorrow" type="boolean" label="32008">
+					<level>0</level>
+					<default>true</default>
+					<control type="toggle"/>
+				</setting>
 				<setting id="zoom" type="boolean" label="32005">
 					<level>0</level>
 					<default>true</default>
 					<control type="toggle"/>
 				</setting>
-				<setting id="switch" type="integer" label="32004">
+				<setting id="count" type="integer" label="32009">
 					<level>0</level>
-					<default>60</default>
+					<default>10</default>
 					<constraints>
-						<minimum>20</minimum>
-						<step>10</step>
-						<maximum>600</maximum>
+						<minimum>3</minimum>
+						<step>1</step>
+						<maximum>10</maximum>
 					</constraints>
 					<control type="slider" format="integer">
 						<popup>false</popup>

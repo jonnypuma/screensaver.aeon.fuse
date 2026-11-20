@@ -31,3 +31,19 @@ msgstr "Másodpercek a következő fajtára váltás előtt"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "Hátterek (fanart) nagyítása és csúsztatása"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "Egy most a mozikban futó film megjelenítése"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "A ma adásba kerülők megjelenítése (Tervező)"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "A holnap adásba kerülők megjelenítése (Tervező)"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "Elemek körönként"

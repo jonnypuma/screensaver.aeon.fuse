@@ -31,3 +31,19 @@ msgstr "Seconden voor de volgende soort"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "Achtergronden (fanart) zoomen en schuiven"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "Een film tonen die nu in de bioscoop draait"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "Tonen wat vandaag uitkomt (Planner)"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "Tonen wat morgen uitkomt (Planner)"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "Items per ronde"

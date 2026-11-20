@@ -31,3 +31,19 @@ msgstr "Sekunder innan nästa sort"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "Zooma och glid bakgrunderna (fanart)"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "Visa en film som går på bio nu"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "Visa vad som sänds i dag (Planerare)"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "Visa vad som sänds i morgon (Planerare)"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "Objekt per omgång"

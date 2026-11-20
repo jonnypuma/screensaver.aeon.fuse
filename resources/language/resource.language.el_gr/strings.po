@@ -31,3 +31,19 @@ msgstr "Δευτερόλεπτα πριν το επόμενο είδος"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "Ζουμ και ολίσθηση των φόντων (fanart)"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "Εμφάνιση ταινίας που παίζεται τώρα στους κινηματογράφους"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "Εμφάνιση όσων προβάλλονται σήμερα (Πρόγραμμα)"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "Εμφάνιση όσων προβάλλονται αύριο (Πρόγραμμα)"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "Στοιχεία ανά γύρο"

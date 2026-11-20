@@ -28,3 +28,19 @@ msgstr ""
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr ""
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr ""
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr ""
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr ""
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr ""

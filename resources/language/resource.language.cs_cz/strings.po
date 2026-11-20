@@ -31,3 +31,19 @@ msgstr "Sekundy před přechodem na další druh"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "Přibližovat a posouvat pozadí (fanart)"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "Zobrazit film, který je nyní v kinech"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "Zobrazit, co se vysílá dnes (Plánovač)"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "Zobrazit, co se vysílá zítra (Plánovač)"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "Položek v jednom kole"

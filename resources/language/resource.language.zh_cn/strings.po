@@ -31,3 +31,19 @@ msgstr "切换到下一类之前的秒数"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "缩放并滑动背景（同人画）"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "显示一部正在上映的电影"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "显示今天播出的内容（计划表）"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "显示明天播出的内容（计划表）"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "每轮项目数"

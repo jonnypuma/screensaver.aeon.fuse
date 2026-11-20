@@ -31,3 +31,19 @@ msgstr "Sonraki türe geçmeden önceki saniye"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "Arka planları (fanart) yakınlaştır ve kaydır"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "Şimdi sinemalarda olan bir filmi göster"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "Bugün yayınlananları göster (Planlayıcı)"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "Yarın yayınlananları göster (Planlayıcı)"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "Tur başına öğe"

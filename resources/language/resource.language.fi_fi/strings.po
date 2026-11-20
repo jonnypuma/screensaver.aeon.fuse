@@ -31,3 +31,19 @@ msgstr "Sekunteja ennen seuraavaan lajiin siirtymistä"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "Zoomaa ja liu'uta taustoja (fanart)"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "Näytä elokuva, joka on nyt teattereissa"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "Näytä, mitä tulee tänään (Suunnittelija)"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "Näytä, mitä tulee huomenna (Suunnittelija)"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "Kohteita kierroksella"

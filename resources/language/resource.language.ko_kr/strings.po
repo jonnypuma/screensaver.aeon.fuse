@@ -31,3 +31,19 @@ msgstr "다음 종류로 넘어가기 전 초"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "배경(팬아트) 확대 및 슬라이드"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "현재 상영 중인 영화 표시"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "오늘 방영되는 것 표시 (플래너)"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "내일 방영되는 것 표시 (플래너)"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "한 바퀴당 항목 수"

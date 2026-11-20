@@ -31,3 +31,19 @@ msgstr "Segundos antes de pasar al siguiente tipo"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "Acercar y deslizar los fondos (fanart)"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "Mostrar una película que está ahora en cines"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "Mostrar lo que se emite hoy (Planificador)"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "Mostrar lo que se emite mañana (Planificador)"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "Elementos por ronda"

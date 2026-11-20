@@ -31,3 +31,19 @@ msgstr "次の種類に切り替えるまでの秒数"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "背景 (ファンアート) をズームしてスライド"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "上映中の映画を表示"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "今日放送されるものを表示 (プランナー)"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "明日放送されるものを表示 (プランナー)"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "1巡あたりの項目数"

@@ -31,3 +31,19 @@ msgstr "Секунд до перехода к следующему виду"
 msgctxt "#32005"
 msgid "Zoom and slide the backgrounds (fanart)"
 msgstr "Приближать и сдвигать фоны (фанарт)"
+
+msgctxt "#32006"
+msgid "Show a film in the cinemas now"
+msgstr "Показывать фильм, который сейчас в кино"
+
+msgctxt "#32007"
+msgid "Show what airs today (Planner)"
+msgstr "Показывать то, что выходит сегодня (Планировщик)"
+
+msgctxt "#32008"
+msgid "Show what airs tomorrow (Planner)"
+msgstr "Показывать то, что выходит завтра (Планировщик)"
+
+msgctxt "#32009"
+msgid "Items per round"
+msgstr "Элементов за круг"
